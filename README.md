@@ -4,11 +4,11 @@ Overview
 
 This project utilizes Apache Spark and Spark SQL to perform data analysis on a dataset of home sales. The analysis includes various SQL queries to derive insights such as average prices based on different criteria.
 
-Requirements
+- Requirements
 
-Apache Spark 3.x
+-Apache Spark 3.x
 
-Java 11
+-Java 11
 
 - Setup
   
