@@ -13,9 +13,13 @@ This project utilizes Apache Spark and Spark SQL to perform data analysis on a d
 - Setup
   
 -the desired Spark version was set by updating the spark_version variable in the script.
+
 -the provided script was run to install Spark, Java, and other necessary packages.
+
 -a SparkSession was started to interact with Spark SQL.
+
 -the dataset was read from AWS S3 bucket and created a temporary view of the DataFrame.
+
 -SQL queries to analyze the data was performed.
 
 - Queries
